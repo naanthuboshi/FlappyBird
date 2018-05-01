@@ -15,17 +15,6 @@
 		F126D48E2092099600E515FC /* FlappyBirdTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = F126D48D2092099600E515FC /* FlappyBirdTests.swift */; };
 		F126D4992092099600E515FC /* FlappyBirdUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = F126D4982092099600E515FC /* FlappyBirdUITests.swift */; };
 		F126D4A9209210B400E515FC /* GameScene.swift in Sources */ = {isa = PBXBuildFile; fileRef = F126D4A8209210B400E515FC /* GameScene.swift */; };
-		F17473042094B79700CC2CB7 /* FlappyBirdTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = F17472F22094B79700CC2CB7 /* FlappyBirdTests.swift */; };
-		F17473052094B79700CC2CB7 /* Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = F17472F32094B79700CC2CB7 /* Info.plist */; };
-		F17473062094B79700CC2CB7 /* FlappyBirdUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = F17472F52094B79700CC2CB7 /* FlappyBirdUITests.swift */; };
-		F17473072094B79700CC2CB7 /* Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = F17472F62094B79700CC2CB7 /* Info.plist */; };
-		F17473082094B79700CC2CB7 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F17472FB2094B79700CC2CB7 /* ViewController.swift */; };
-		F17473092094B79700CC2CB7 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F17472FC2094B79700CC2CB7 /* Assets.xcassets */; };
-		F174730A2094B79700CC2CB7 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F17472FD2094B79700CC2CB7 /* LaunchScreen.storyboard */; };
-		F174730B2094B79700CC2CB7 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F17472FF2094B79700CC2CB7 /* Main.storyboard */; };
-		F174730C2094B79700CC2CB7 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = F17473012094B79700CC2CB7 /* AppDelegate.swift */; };
-		F174730D2094B79700CC2CB7 /* GameScene.swift in Sources */ = {isa = PBXBuildFile; fileRef = F17473022094B79700CC2CB7 /* GameScene.swift */; };
-		F174730E2094B79700CC2CB7 /* Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = F17473032094B79700CC2CB7 /* Info.plist */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -60,18 +49,6 @@
 		F126D4982092099600E515FC /* FlappyBirdUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FlappyBirdUITests.swift; sourceTree = "<group>"; };
 		F126D49A2092099600E515FC /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		F126D4A8209210B400E515FC /* GameScene.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GameScene.swift; sourceTree = "<group>"; };
-		F17472F22094B79700CC2CB7 /* FlappyBirdTests.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = FlappyBirdTests.swift; sourceTree = "<group>"; };
-		F17472F32094B79700CC2CB7 /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		F17472F52094B79700CC2CB7 /* FlappyBirdUITests.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = FlappyBirdUITests.swift; sourceTree = "<group>"; };
-		F17472F62094B79700CC2CB7 /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		F17472F72094B79700CC2CB7 /* FlappyBird.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; path = FlappyBird.xcodeproj; sourceTree = "<group>"; };
-		F17472FB2094B79700CC2CB7 /* ViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
-		F17472FC2094B79700CC2CB7 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
-		F17472FE2094B79700CC2CB7 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
-		F17473002094B79700CC2CB7 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
-		F17473012094B79700CC2CB7 /* AppDelegate.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		F17473022094B79700CC2CB7 /* GameScene.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = GameScene.swift; sourceTree = "<group>"; };
-		F17473032094B79700CC2CB7 /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,7 +80,6 @@
 			isa = PBXGroup;
 			children = (
 				F126D4772092099500E515FC /* FlappyBird */,
-				F17472F02094B79700CC2CB7 /* FlappyBird */,
 				F126D48C2092099600E515FC /* FlappyBirdTests */,
 				F126D4972092099600E515FC /* FlappyBirdUITests */,
 				F126D4762092099500E515FC /* Products */,
@@ -150,54 +126,6 @@
 				F126D49A2092099600E515FC /* Info.plist */,
 			);
 			path = FlappyBirdUITests;
-			sourceTree = "<group>";
-		};
-		F17472F02094B79700CC2CB7 /* FlappyBird */ = {
-			isa = PBXGroup;
-			children = (
-				F17472F12094B79700CC2CB7 /* FlappyBirdTests */,
-				F17472F42094B79700CC2CB7 /* FlappyBirdUITests */,
-				F17472F72094B79700CC2CB7 /* FlappyBird.xcodeproj */,
-				F17472FA2094B79700CC2CB7 /* FlappyBird */,
-			);
-			name = FlappyBird;
-			sourceTree = "<group>";
-		};
-		F17472F12094B79700CC2CB7 /* FlappyBirdTests */ = {
-			isa = PBXGroup;
-			children = (
-				F17472F22094B79700CC2CB7 /* FlappyBirdTests.swift */,
-				F17472F32094B79700CC2CB7 /* Info.plist */,
-			);
-			path = FlappyBirdTests;
-			sourceTree = "<group>";
-		};
-		F17472F42094B79700CC2CB7 /* FlappyBirdUITests */ = {
-			isa = PBXGroup;
-			children = (
-				F17472F52094B79700CC2CB7 /* FlappyBirdUITests.swift */,
-				F17472F62094B79700CC2CB7 /* Info.plist */,
-			);
-			path = FlappyBirdUITests;
-			sourceTree = "<group>";
-		};
-		F17472F82094B79700CC2CB7 /* Products */ = {
-			isa = PBXGroup;
-			name = Products;
-			sourceTree = "<group>";
-		};
-		F17472FA2094B79700CC2CB7 /* FlappyBird */ = {
-			isa = PBXGroup;
-			children = (
-				F17472FB2094B79700CC2CB7 /* ViewController.swift */,
-				F17472FC2094B79700CC2CB7 /* Assets.xcassets */,
-				F17472FD2094B79700CC2CB7 /* LaunchScreen.storyboard */,
-				F17472FF2094B79700CC2CB7 /* Main.storyboard */,
-				F17473012094B79700CC2CB7 /* AppDelegate.swift */,
-				F17473022094B79700CC2CB7 /* GameScene.swift */,
-				F17473032094B79700CC2CB7 /* Info.plist */,
-			);
-			path = FlappyBird;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -290,12 +218,6 @@
 			mainGroup = F126D46C2092099500E515FC;
 			productRefGroup = F126D4762092099500E515FC /* Products */;
 			projectDirPath = "";
-			projectReferences = (
-				{
-					ProductGroup = F17472F82094B79700CC2CB7 /* Products */;
-					ProjectRef = F17472F72094B79700CC2CB7 /* FlappyBird.xcodeproj */;
-				},
-			);
 			projectRoot = "";
 			targets = (
 				F126D4742092099500E515FC /* FlappyBird */,
@@ -310,14 +232,8 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				F17473052094B79700CC2CB7 /* Info.plist in Resources */,
 				F126D4832092099600E515FC /* LaunchScreen.storyboard in Resources */,
-				F174730E2094B79700CC2CB7 /* Info.plist in Resources */,
 				F126D4802092099600E515FC /* Assets.xcassets in Resources */,
-				F174730B2094B79700CC2CB7 /* Main.storyboard in Resources */,
-				F17473072094B79700CC2CB7 /* Info.plist in Resources */,
-				F174730A2094B79700CC2CB7 /* LaunchScreen.storyboard in Resources */,
-				F17473092094B79700CC2CB7 /* Assets.xcassets in Resources */,
 				F126D47E2092099500E515FC /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -343,12 +259,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				F17473082094B79700CC2CB7 /* ViewController.swift in Sources */,
-				F17473042094B79700CC2CB7 /* FlappyBirdTests.swift in Sources */,
-				F174730D2094B79700CC2CB7 /* GameScene.swift in Sources */,
-				F17473062094B79700CC2CB7 /* FlappyBirdUITests.swift in Sources */,
 				F126D4A9209210B400E515FC /* GameScene.swift in Sources */,
-				F174730C2094B79700CC2CB7 /* AppDelegate.swift in Sources */,
 				F126D47B2092099500E515FC /* ViewController.swift in Sources */,
 				F126D4792092099500E515FC /* AppDelegate.swift in Sources */,
 			);
@@ -400,22 +311,6 @@
 				F126D4822092099600E515FC /* Base */,
 			);
 			name = LaunchScreen.storyboard;
-			sourceTree = "<group>";
-		};
-		F17472FD2094B79700CC2CB7 /* LaunchScreen.storyboard */ = {
-			isa = PBXVariantGroup;
-			children = (
-				F17472FE2094B79700CC2CB7 /* Base */,
-			);
-			name = LaunchScreen.storyboard;
-			sourceTree = "<group>";
-		};
-		F17472FF2094B79700CC2CB7 /* Main.storyboard */ = {
-			isa = PBXVariantGroup;
-			children = (
-				F17473002094B79700CC2CB7 /* Base */,
-			);
-			name = Main.storyboard;
 			sourceTree = "<group>";
 		};
 /* End PBXVariantGroup section */
