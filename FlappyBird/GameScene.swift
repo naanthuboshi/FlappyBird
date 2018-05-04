@@ -229,8 +229,8 @@ class GameScene: SKScene, SKPhysicsContactDelegate {
         
         bird.speed = 1
         scrollNode.speed = 1
-    }
     
+}
     override func touchesBegan(_ touches: Set<UITouch>, with event: UIEvent?) {
           if scrollNode.speed > 0 {
             
